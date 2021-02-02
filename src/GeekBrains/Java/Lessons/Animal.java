@@ -7,7 +7,7 @@ public class Animal {
     int maxRunLength;
     int maxSwimLength;
 
-    
+    // конструктор животных
     public Animal(String type, String name, int maxRunLength, int maxSwimLength){
         this.type = type;
         this.name = name;
